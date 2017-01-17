@@ -1,0 +1,19 @@
+{
+   "phoneNumber": [
+      {
+         "type": "work",
+         "num": "11111"
+      },
+      {
+         "type": "home",
+         "num": "2222"
+      }
+   ],
+   "address": {
+      "state": "World",
+      "address": "infinite space, 000",
+      "city": "Android city"
+   },
+   "surname": "Swa",
+   "name": "Android"
+}
